@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: New blog title
+title: Pirate Ipsum
 date: 2019-10-13T10:35:34.627Z
 description: >
   Hulk clap of thunder smartly aye bilged on her anchor hands to go on account
